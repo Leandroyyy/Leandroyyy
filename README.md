@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 💬 Pode me perguntar sobre qualquer coisa... Tentarei sempre ter a resposta
 - ⚡ contato: leandro.cavallari123@gmail.com
 
-<div align="center" display="flex">
+<div>
   <a href="https://github.com/Leandroyyy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandroyyy&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroyyy&layout=compact&langs_count=7&theme=react"/>
