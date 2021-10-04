@@ -1,7 +1,5 @@
 ### Opa, Leandroyyy vulgo Leandro Cavallari
 
-Here are some ideas to get you started:
-
 - 🔭 Atualmente trabalhando como desenvolvedor Java e Angular
 - 👯 Estudando React/React Native/Angular/VueJs/Java/Python/Typescript/Javascript/NodeJs/Flutter
 - 💬 Pode me perguntar sobre qualquer coisa... Tentarei sempre ter a resposta
