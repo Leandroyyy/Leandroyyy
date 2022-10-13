@@ -1,6 +1,6 @@
 ### Opa, Leandroyyy vulgo Leandro Cavallari
 
-- 🔭 Atualmente trabalhando como desenvolvedor Java e Angular
+- 🔭 Atualmente trabalhando como desenvolvedor NodeJS e React
 - 👯 Estudando React/React Native/Java/Node/Python
 - 💬 Pode me perguntar sobre qualquer coisa... Tentarei sempre ter a resposta
 - ⚡ contato: leandro.cavallari123@gmail.com
