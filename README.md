@@ -1,4 +1,4 @@
-### Opa, Leandroyyy vulgo Leandro Cavallari
+### Opa, sou Leandro Cavallari
 
 - 🔭 Atualmente trabalhando como desenvolvedor NodeJS e React
 - 👯 Estudando arquitetura de software
